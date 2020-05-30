@@ -5,7 +5,8 @@
  * The intended purpose for this class is to be integrated into a game program.
  */
 
-public class Person {
+public class Person 
+{
 //FIELDS
 	private String name;
 	private int health;
