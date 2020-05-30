@@ -16,15 +16,13 @@ public class Item {
 	}
 
 //ACCESSOR METHODS	
-	public String getName()
+	public String getName() //Returns the name of the object
 	{
 		return name;
 	}
 	
-	public int getSize()
+	public int getSize() //Returns the size of the specific object
 	{
 		return size;
 	}
-	
-	
 }
